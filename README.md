@@ -48,6 +48,8 @@ Type `#memoryon` to enable memory tracking. Type `quit` to exit.
 
 ##  Sample Output
 
+![TinyLlama demo](tiny_chat_demo.png)
+
 E:\Project-Nunya>python tiny_chat.py
 llama_context: n_ctx_per_seq (512) < n_ctx_train (2048) -- the full capacity of the model will not be utilized
 llama_kv_cache_unified: LLAMA_SET_ROWS=0, using old ggml_cpy() method for backwards compatibility
