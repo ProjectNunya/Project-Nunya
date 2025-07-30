@@ -26,7 +26,7 @@ Most AI assistants depend on cloud access, subscriptions, and telemetry. Nunya i
 -  **No telemetry or accounts**
 -  **Customizable prompt flow**
 -  **Modular memory loop**
-- ⚙ **Works on 10-year-old CPUs or with a single GPU**
+-  **Works on 10-year-old CPUs or with a single GPU**
 
 Built for real autonomy — whether you're disconnected, cautious, or just done with systems that don't respect you.
 
