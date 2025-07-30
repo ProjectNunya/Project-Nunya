@@ -1,6 +1,6 @@
 # Project Nunya
 
-**A fully offline, memory-capable local LLM assistant stack. Built for sovereignty, resilience, and cognitive autonomy.**
+**A fully offline, memory-capable, math-literate LLM assistant stack. Built for sovereignty, resilience, and cognitive autonomy.**
 
 ---
 
@@ -13,7 +13,7 @@ It includes:
 - A custom CLI chat interface (`tiny_chat.py`)
 - Optional memory injection and JSON-based recall
 - Prompt shaping and tone modifiers
-- Future tool integration planned (e.g., math via SymPy, subprocess hooks)
+- Integrated symbolic math engine via SymPy, with future CLI tool hooks planned
 - Model-swapping support via `llama.cpp`
 
 ---
@@ -85,6 +85,25 @@ You: what is today's date?
 
 TinyLlama: July 30, 2025.
 
+You: quit
+Exiting TinyLlama. Goodbye!
+
+### Math Example (Symbolic Logic via SymPy)
+
+![SymPy demo](tiny_chat_demo_sympy.png)
+
+You: what is five plus five?
+
+TinyLlama (via SymPy): 10
+You: what is 5**3?
+
+TinyLlama (via SymPy): 125
+You: what is ten times twenty?
+
+TinyLlama (via SymPy): 200
+You: what is (500x2)+(16-6)**2
+
+TinyLlama (via SymPy): 1100
 You: quit
 Exiting TinyLlama. Goodbye!
 
