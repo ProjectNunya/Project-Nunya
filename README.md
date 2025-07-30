@@ -102,4 +102,6 @@ Exiting TinyLlama. Goodbye!
 Apache 2.0  
 This project is open, inspectable, and meant to be carried forward.
 
-Contact: `ProjectNunyaDev@protonmail.com` - `ProjectNunyaDev@fastmail.com`
+Contact: 
++ ProjectNunyaDev@protonmail.com  
++ ProjectNunyaDev@fastmail.com
