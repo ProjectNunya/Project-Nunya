@@ -109,13 +109,6 @@ Exiting TinyLlama. Goodbye!
 
 ---
 
-##  Philosophy
-
-> *“Made by someone who hoped we wouldn’t need it.  
-> And who loved someone enough to build it anyway.”*
-
----
-
 ##  License
 
 Apache 2.0  
