@@ -86,6 +86,7 @@ You: what is today's date?
 TinyLlama: July 30, 2025.
 
 You: quit
+
 Exiting TinyLlama. Goodbye!
 
 ### Math Example (Symbolic Logic via SymPy)
@@ -95,16 +96,21 @@ Exiting TinyLlama. Goodbye!
 You: what is five plus five?
 
 TinyLlama (via SymPy): 10
+
 You: what is 5**3?
 
 TinyLlama (via SymPy): 125
+
 You: what is ten times twenty?
 
 TinyLlama (via SymPy): 200
+
 You: what is (500x2)+(16-6)**2
 
 TinyLlama (via SymPy): 1100
+
 You: quit
+
 Exiting TinyLlama. Goodbye!
 
 ---
